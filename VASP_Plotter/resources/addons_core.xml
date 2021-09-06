@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>VASP_Plotter</label>
+  <version>1.24</version>
+  <type>app</type>
+  <packagedBy>(R2020a)</packagedBy>
+  <identifier>6659495b-5e79-4be4-bb70-8d2aa0034e8c</identifier>
+  <summary>Plot Total DOS, projected DOS &amp; band structure from VASP.</summary>
+  <createdBy name="Yiyuan"/>
+  <image>resources/screenshot.png</image>
+  <icons>
+    <icon tag="0">resources/icon_48.png</icon>
+    <icon tag="1">resources/icon_24.png</icon>
+    <icon tag="2">resources/icon_16.png</icon>
+  </icons>
+</addonCore>
